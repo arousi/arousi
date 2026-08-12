@@ -3,7 +3,7 @@ sanad@personal:~$ cat about.txt
 
   ┌────────────────────────────────────────────────────────────┐
   │  SANAD ALAROUSI                                            │
-  │  growing, and helping others grow too 💪                    │
+  │  growing, and helping others grow too                      │
   └────────────────────────────────────────────────────────────┘
 
   this account   personal · open source · community
